@@ -4,6 +4,16 @@
 
 Secret Echo is a comprehensive AI companion application that integrates a modern frontend with a robust backend to provide an interactive and personalized user experience. The main branch serves as the central hub, coordinating the frontend (secretecho-client) and backend (secretecho-server) components. It leverages cutting-edge technologies for real-time communication, user authentication, and AI-driven interactions, with data persistence ensured through MongoDB.
 
+## Documentary Video
+
+To learn more about Secretecho AI Companion WebApp App and see a walkthrough of its features, watch documentary video:
+
+### Watch the Secretecho AI Companion Documentary Video
+
+[![alt text](https://github.com/user-attachments/assets/3c3b56d0-f395-49d6-bdaa-f3b0414fee41)](https://www.youtube.com/watch?v=fCfgnFmRoFM)
+
+
+
 ## Features
 
 - **Integrated Frontend and Backend**: Combines a responsive Next.js frontend with a Node.js backend for a seamless AI companion experience.
